@@ -22,7 +22,7 @@ Complete the changes in settings.py in myproj.
 
 
 ### Step 5:
-Now run the server.
+Now run the server
 
 
 ### Step 6:
