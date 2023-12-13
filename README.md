@@ -98,9 +98,9 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 ```
 
 ## OUTPUT:
-![triarea](triarea.JPG)
+![Alt text](<Screenshot from 2023-12-13 18-39-02.png>)
+![Alt text](<Screenshot from 2023-12-13 18-39-21.png>)
 
-![triarea2](triarea2.JPG)
 
 ### Home Page:
 
